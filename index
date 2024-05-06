@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>  
+  <style> p1 {font-size: 20px;}
+    p2 {font-size: 20px}
+    p3 {font-size: 20px}
+    p4 {font-size: 20px}
+    p5 {font-size: 20px}
+    p6 {font-size: 20px}
+    p7 {font-size: 20px}
+    p8 {font-size: 20px}
+    p9 {font-size: 20px}
+    p10 {font-size: 20px}
+    p11 {font-size: 20px}
+    p12 {font-size: 20px}
+    a {font-size:20px}</style>
+ <h1>Introduction to Wargames</h1>
+ <p1>Wargames are a simulation of an armed conflict or war with the most realism possible from the strategic perspective. Typically with 2 teams against each other in a scenario with the aim to defeat the other team using superior strategy,</p1>
+ <br>
+ <br>
+ <a href="anchor1" target="self">How it works</a>
+ <br>
+ <a href="anchor2" target="self">Orders</a>
+ <br>
+ <a href="anchor3" target="self">Unit Stats</a>
+ <br>
+ <a href="anchor4" target="self">Making your own</a>
+ <h1 id="anchor1">How It Works</h1>
+ <p2>Typically, the host will give both sides a version of the map. This will have everything from that side on it, including units, fortifications and other structures that side has built. Then, each side will begin to give orders for their units. Once complete, the host will determine the result based on a simulated dice roll and various other factors such as terrain, unit stats, morale, etc.</p2>
+ <br>
+ <br>
+ <p3>After the result of the order is determined, the maps will be updated with any new relevant information, and the result will be told to one or both sides depending on the action. Usually, each side will have one or more objectives and the completion of them will be the win condition for that team.</p3>
+ <br>
+ <br>
+ <p4>While this is the basic setup of a wargame, the exact specifics can change depending on the wargame, but generally it will more-or-less follow the same format.</p4>
+ <h1 id="anchor2">Orders</h1>
+ <p5>When in a wargame, the way that actions will be carried out is through orders. Orders are done by typing out the actions taken and by what unit / units, usually along with an image to show the action and where it is. For example:</p5>
+ <br>
+ <br>
+ <img src="https://cdn.discordapp.com/attachments/442433646037696513/1235633193357410364/order.png?ex=66351496&is=6633c316&hm=ad600184314b6db2d460e9d1c5479ccdf5f5a9e4c345aec545683428b80a6d89&" alt="An example of an order">
+ <br>
+ <p6>Then, the host will roll a virtual d10 dice, and the result of the roll will effect the result of the order. Although rolls will not be the only thing to determine the result of the order. Other factors such as the contents of the order, terrain, morale and the enemy force will be taken into consideration before determining the result.</p6>
+ <h1 id="anchor3">Unit Stats</h1>
+ <p7>Each unit will have its own set of stats, this will include the number of troops, its equipment, and the unit's morale. A typical unit will look something like this.</p7>
+ <br>
+ <br>
+ <img src="https://media.discordapp.net/attachments/442433646037696513/1235634765248466964/unit_stats.png?ex=6635160d&is=6633c48d&hm=5625932ea15405c2e53cdee714710821d165797983a84490d34888cfaf552944&=&format=webp&quality=lossless&width=666&height=548" alt="Unit stats">
+ <br>
+ <p8>These stats will determine what the unit can do, and effect the outcome of its actions. For example, in the image above you can see that it has all its equipment and high morale, this gives it a good chance at succeeding in its actions, especially against units with weaker equipment and lower morale.</p8>
+ <h1 id="anchor4">Making your own</h1>
+ <p9>If you are familiar with wargames you may want to host one yourself. For that, first you should make a map. While you can use any software for this, the easist and simplest way is to use Google My Maps. Upon creating a new map, first you should create the borders and territory with the line tool</p9>
+ <video controls width="1280" height="720"><source src="https://cdn.discordapp.com/attachments/442433646037696513/1235637331898404965/making_your_own.mp4?ex=663a5e70&is=66390cf0&hm=5f6e04a0e9e76859a9e29de9b981a6eb5ad8154b428663b8ba82075313190ac8&"></video>
+ <p10>After creating the territory of the two sides, you can start on the units, which are done by using markers, and giving them a custom icon.</p10>
+ <img src="https://cdn.discordapp.com/attachments/442433646037696513/1235639352541839541/icon.png?ex=663a6052&is=66390ed2&hm=df558caf33aea7a03856eb579540b129d5fa68131e03edda91e52bd7648fd953&">
+ <br>
+ <br>
+ <p11>After you're finished creating the map, you can start the game. To change a unit's stats once it takes damage, simply edit the text in the unit's description, while to move units, drag the icon to its new location.</p11>
+ <video controls width="1280" height="720"><source src="https://cdn.discordapp.com/attachments/442433646037696513/1235640508760457330/moving_units.mp4?ex=663a6166&is=66390fe6&hm=938f6fb56689fe74e0db4c9e74e133ed012c5190deb8081bfb8d7f3c630733d3&"></video>
+ <br>
+ <br>
+ <p12>And so we come to the end of this guide to wargames, using this information you should be able to play and host wargames competently.</p12>
+ </html>
